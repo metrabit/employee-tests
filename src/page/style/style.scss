@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+$light-grey: #d5d5d5;
+$secondary-grey: #b4b4b4;
+$text-color: #5e5e5e;
+$title-color: #263d49;
+$advice: #f2f5f9;
+$green: #8dc740;
+$red: #b71c1c;
+$yellow: #fac746;
+
+* {
+  font-family: Roboto;
+}
+
+.showed {
+  visibility: visible;
+}
